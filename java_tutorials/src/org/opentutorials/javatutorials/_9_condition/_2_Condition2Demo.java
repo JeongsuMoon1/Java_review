@@ -1,6 +1,6 @@
 package org.opentutorials.javatutorials._9_condition;
 
-public class _2ConditionDemo {
+public class _2_Condition2Demo {
 
 	public static void main(String[] args) {
 		
