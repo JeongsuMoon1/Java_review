@@ -1,6 +1,6 @@
 package org.opentutorials.javatutorials._9_condition;
 
-public class _10_SwitchDemo {
+public class _8_3_SwitchDemo {
 
 	public static void main(String[] args) {
 		
