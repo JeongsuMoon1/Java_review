@@ -25,6 +25,7 @@ public class _2_ArithmeticDemo {
 		
 		// result의 값은 10
 		result = result + 8;
+		System.out.println(result);
 		// result의 값은 3
 		result = result % 7;
 		System.out.println(result);

@@ -12,7 +12,6 @@ public class _3_Condition3Demo {
 		if(false){
 			// 거짓일 떄 실현할 내용
 		}
-		
 		// else문 : if문 하나로 참일 때 무엇을 하고, 거짓일 경우 무엇을 한다는 것을 한번에 처리하는 것
 //		if(true 또는 false){
 //			true일 경우 실행 됨
