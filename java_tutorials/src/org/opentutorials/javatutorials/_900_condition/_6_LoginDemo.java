@@ -1,4 +1,4 @@
-package org.opentutorials.javatutorials._9_condition;
+package org.opentutorials.javatutorials._900_condition;
 
 public class _6_LoginDemo {
 
