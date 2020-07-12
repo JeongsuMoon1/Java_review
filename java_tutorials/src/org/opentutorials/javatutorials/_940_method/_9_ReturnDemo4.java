@@ -15,7 +15,11 @@ public class _9_ReturnDemo4 {
 	public static void main(String[] args) {
 		
 		String[] members = getMembers();
-
+		
+		for(int i = 0; i < members.length; i++){
+			String result = members[i];
+			System.out.println(result);
+		}
 	}
 	
 	// return에 한정되는 것이지만, 메소드가 인자값을 주면 그것은 입력값이 된다.

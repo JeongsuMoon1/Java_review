@@ -10,7 +10,7 @@ public class _8_2_SwitchDemo {
 			System.out.println("one");
 		}else if(val==2){
 			System.out.println("two");
-		}else if(val==2){
+		}else if(val==3){
 			System.out.println("three");
 		}
 		
