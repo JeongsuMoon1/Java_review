@@ -26,6 +26,11 @@ public class _3_LengthDemo {
 				//		 -> System.out.println(classGroup.length)의 변수명 classGroup뒤에 점(.)을 찍고 length을 붙이면 변수에 담긴 배열이 담을 수 있는 원소의 개수를 가져온다.
 				//			점(.)을 찍는 부분은 뒤에 객체지향에서 따로 배울 것이다.
 				//		 -> .length 는 classGroup변수에 담긴 값이 몇 개 들어있는지 알려주는 것이 아니고, 변수에 담긴 배열이 몇 개의 값을 수용할 수 있는지 알려주는 값이다.
+				
+				System.out.println(classGroup[0]);
+				System.out.println(classGroup[1]);
+				System.out.println(classGroup[2]);
+				System.out.println(classGroup[3]);
 
 	}
 
