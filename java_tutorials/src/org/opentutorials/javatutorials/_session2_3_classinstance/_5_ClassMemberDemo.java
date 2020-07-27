@@ -23,7 +23,7 @@ class C1{ // 1) C1 클래스 정의(클래스 변수, 인스턴스 변수)
 	
 	static void static_instance(){
 		// 클래스 메소드에서 인스턴스 변수에 접근할 수 없다.
-		System.out.println(instance_variable);
+		//System.out.println(instance_variable);
 	}
 	
 	void instance_static(){
@@ -67,10 +67,10 @@ public class _5_ClassMemberDemo {
 		C1.static_instance();
 		
 		// 클래스를 이용해 인스턴스 메소드에 접근 -> 실패
-		C1.instance_static();
+		//C1.instance_static();
 		
 		// 클래스를 이용해 인스턴스 메소드에 접근 -> 실패
-		C1.instance_instance();
+		//C1.instance_instance();
 
 	}
 
