@@ -16,12 +16,20 @@ public class _9_ReturnDemo3 {
 		return "한이람";
 	}
 	
+	// 그냥 예제11
+	public static void getMember4(){
+		String name = "문정수";
+		System.out.println(name);
+	}
 	
 	public static void main(String[] args) {
 		
 		System.out.println(getMember1());
 		System.out.println(getMember2());
 		System.out.println(getMember3());
+		
+		// 그냥 예제11
+		getMember4();
 		
 	}
 	

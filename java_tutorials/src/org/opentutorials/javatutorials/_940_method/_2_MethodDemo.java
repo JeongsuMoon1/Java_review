@@ -45,6 +45,17 @@ public class _2_MethodDemo {
 			j++;
 		
 		}
+		
+//		int a = 0;
+//		int b = 0;
+//		while(b<5){
+//			a = 0;
+//			while(a<10){
+//				System.out.println(a);
+//				a++;
+//			}
+//			b++;
+//		}
 
 	}
 

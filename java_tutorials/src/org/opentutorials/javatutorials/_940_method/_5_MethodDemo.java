@@ -4,7 +4,7 @@ public class _5_MethodDemo {
 	
 	// 메소드의 입력값2
 	// numbering() 메소드에 시작값과 종료값을 전달
-	public static void numbering(int init, int limit	){
+	public static void numbering(int init, int limit){
 		int i = init;
 		while(i<limit){
 			System.out.println(i);
@@ -26,4 +26,5 @@ public class _5_MethodDemo {
 	// 메소드를 정의할 떄 인자를 전달받을 매개변수의 순서 역시 인자가 전달될 순서에 따라 배치하고
 	// 매개변수와 매개변수 사이에 콤마를 붙인다. 
 
+	
 }

@@ -14,6 +14,8 @@ public class _3_MethodDemo {
 		}
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		
 		numbering();

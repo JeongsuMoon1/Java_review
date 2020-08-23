@@ -17,7 +17,7 @@ public class _2_ImplicitConversion {
 		// 실수에 아무것도 안 붙어있다면 자동적으로 데이터 타입은 double이다.
 		// float형의 변수에 double형의 데이터를 담을려고 하는 상황.
 		// float형 변수에 double형의 데이터가 담아질 수가 없다 -> double데이터 타입이 float형 변수보다 더 많은 수를 표현할 수 있기 떄문에 호환이 안된다.
-		//float a = 3.0;
+//		float a = 3.0;
 		
 		// 자동 형 변환의 원칙
 		// byte -> short -> int -> long -> float -> double

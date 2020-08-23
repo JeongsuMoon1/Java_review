@@ -5,10 +5,9 @@ public class _9_ReturnDemo4 {
 	// 우리가 하고싶은 것은 하나의 메소드가 "최진혁", "최유빈", "한이람"이라는 세명을 한꺼번에 반환하게 하고 싶은 것이다. -> 이 때 사용할 수 있는 것이 배열이다.
 	// 메소드에서 문자열 배열을 반환
 	public static String[] getMembers(){ // getMembers() 메소드가 반환하는 반환값이 문자열 데이터로 구성된 배열이라는 뜻이다.
-		String [] members = {"최진혁", "최유빈", "한이람"};
+		String[] members = {"최진혁", "최유빈", "한이람"};
 		return members;
-	}
-	
+	}	
 	// return에서 members를 반환한다. 그러면 이 getMembers()라는 메소드가 반환하는 값은 배열이라서 getMembers()가 반환하는 값은 배열로 받게 된다.
 	// 따라서 getMembers()는 반환을 한 번만 하지만 반환하는 값이 배열이라서 배열 안에 여러개의 값이 들어갈 수 있게 된다.
 	
@@ -19,6 +18,11 @@ public class _9_ReturnDemo4 {
 		for(int i = 0; i < members.length; i++){
 			String result = members[i];
 			System.out.println(result);
+		}
+		
+		// 그냥 한 예제22 for-each문
+		for(String e : members){
+			System.out.println(e);
 		}
 	}
 	

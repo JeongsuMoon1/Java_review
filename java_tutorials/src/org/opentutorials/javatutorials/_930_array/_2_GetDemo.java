@@ -14,7 +14,7 @@ public class _2_GetDemo {
 				System.out.println(ClassGroup[3]);
 				// index(인덱스) : 0,1,2,3 값(한국어로 색인)
 				// 컴퓨터의 숫자 체계는 0부터 시작한다.
-
+				
 	}
 
 }
