@@ -16,7 +16,7 @@ package org.opentutorials.javatutorials._session2_4_scope;
 		// 반면 중괄호{} 안에서 어떤 변수를 선언하면 그 변수는 해당 중괄호 안에서만 유효하고 중괄호{} 바깥에서는 접근할 수 없는 변수가 되는 것이다.
 
 
-public class _3_ScopeDemo {
+public class _003_ScopeDemo {
 
 		static int i; // 전역변수
 		

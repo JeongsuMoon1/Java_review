@@ -2,7 +2,7 @@ package org.opentutorials.javatutorials._session2_4_scope;
 
 //		[예제23.6] 전역변수에 접근
 
-public class _6_ScopeDemo {
+public class _006_ScopeDemo {
 
 	static int i = 5;
 	

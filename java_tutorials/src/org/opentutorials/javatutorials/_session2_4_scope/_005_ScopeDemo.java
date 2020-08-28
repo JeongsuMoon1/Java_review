@@ -4,7 +4,7 @@ package org.opentutorials.javatutorials._session2_4_scope;
 
 //		[예제23.5] for문에 선언된 변수에 접근
 
-public class _5_ScopeDemo {
+public class _005_ScopeDemo {
 
 	
 	

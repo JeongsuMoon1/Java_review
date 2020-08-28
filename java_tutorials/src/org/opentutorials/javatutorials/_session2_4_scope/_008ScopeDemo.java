@@ -4,7 +4,7 @@ package org.opentutorials.javatutorials._session2_4_scope;
 
 	
 
-public class _8ScopeDemo {
+public class _008ScopeDemo {
 	
 	static int i = 5;
 	

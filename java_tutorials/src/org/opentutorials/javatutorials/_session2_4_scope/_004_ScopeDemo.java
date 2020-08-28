@@ -4,7 +4,7 @@ package org.opentutorials.javatutorials._session2_4_scope;
 
 		// [예제23.4] 다른 메소드에 선언된 지역변수에 접근
 
-public class _4_ScopeDemo {
+public class _004_ScopeDemo {
 
 	static void a(){
 		String title = "coding everybody";

@@ -2,7 +2,7 @@ package org.opentutorials.javatutorials._session2_4_scope;
 
 //		[예제23.7] main메소드에서 i변수를 선언
 
-public class _7_ScopeDemo {
+public class _007_ScopeDemo {
 	
 	static int i = 5;
 	
